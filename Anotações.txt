@@ -1,0 +1,3 @@
+********* LER ARGUMENTOS DA LINHA DE COMANDO
+
+Os argumentos ficam em um array chamado: process.argv
