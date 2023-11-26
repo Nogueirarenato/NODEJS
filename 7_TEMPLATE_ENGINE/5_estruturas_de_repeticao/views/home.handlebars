@@ -1,0 +1,13 @@
+{{#if auth}}
+
+<p>
+    Você está Logado!!! <a href="/dashboard">Clique aqui</a>
+</p>
+
+{{else}}
+<p>Você não está logado, faça o login...</p>
+{{/if}}
+
+<h1>
+    O nome do usuário é {{user.name}} {{user.surname}}
+</h1>
