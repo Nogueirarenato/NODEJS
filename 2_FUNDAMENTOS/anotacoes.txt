@@ -1,0 +1,3 @@
+//módulos internos = nós mesmos desenvolvemnos;
+//Core Módulos = módulos que já vêm com o node;
+//Externos = que são Instalados via NPM
